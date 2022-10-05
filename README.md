@@ -1,7 +1,10 @@
-### Hi there 👋
+### Salut à tous 👋
 
 <!--
 **marcellintacite/marcellintacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Je suis Aksanti Bahiga Tacite, un amoureux de la tech et développeur front-end.
+Je fait du react et react native. :simple_smile:
 
 Here are some ideas to get you started:
 
