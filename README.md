@@ -1,15 +1,15 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Aksanti Bahiga Tacite</h1>
 <h3 align="center">A frontend developer</h3>
 
 
-- 🔭 I’m currently working on [ SOS Dokta](https://sosdokta.app/)
-- 👯 I’m looking to collaborate on [TingPage](https://www.tingpage.xyz/)
+- 🔭 I’m currently working on [ DrcMind](https://drcmind.com/)
+- 👯 I’m looking to collaborate on [Mwandishi AI](https://mwandishi-ai.vercel.app/)
 - 🌱 I’m currently learning **NextJs, Typescript, Web perfomance**
-- 💬 Ask me about **HTML,CSS, JS , React, Nextjs, tailwind, MUI, etc**
+- 💬 Ask me about **HTML,CSS, JS , React, Nextjs, tailwind, PWA**
 - 📫 How to reach me **tacite.bahiga@gmail.com**
-- 👨‍💻 All of my projects are available at **https://aksanti.netlify.app/**
-- 📝 I regularly write articles on **https://meta-blog-two.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://aksantibahiga.tech/**
+- 📝 I regularly write articles on **https://aksantibahiga.tech/blog**
 - ⚡ Fun fact **Singing, sport, teaching**
 
 <div> <a href="https://twitter.com/BahigaTacite" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -64,4 +64,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellintacite&theme=ayu_mirage" height="180em" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
