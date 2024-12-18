@@ -22,7 +22,20 @@ Feel free to connect with me via:
 - **Email:** [aksantibahiga3@gmail.com]
 - **Social Media:** [https://www.linkedin.com/in/aksantibahiga/]
 
+## 📈 GitHub Stats
 
+![Marcellin Tacite's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellintacite&show_icons=true&theme=radical)
+
+## 🌟 Top Repositories
+
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=marcellintacite&repo=repo-name&theme=radical)](https://github.com/marcellintacite/repo-name)
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=marcellintacite&repo=another-repo&theme=radical)](https://github.com/marcellintacite/another-repo)
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Marcellin Tacite](https://www.linkedin.com/in/marcellintacite/)
+- Twitter: [@marcellintacite](https://twitter.com/marcellintacite)
+- Email: [marcellintacite@example.com](mailto:marcellintacite@example.com)
 
 ---
 
