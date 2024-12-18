@@ -4,7 +4,7 @@ I'm a **Google Developer Expert (GDE)** in Web Technologies, specializing in **P
 
 ## 🌟 About Me
 - **Web Development Experience:** 5+ years of experience with a strong focus on modern JavaScript frameworks, especially **Next.js** and **Angular**.
-- **Educator:** Taught **70,000+ students** through my YouTube channel, empowering them with web development skills.
+- **Educator:** Taught **70,000+ students** through DrcMind's YouTube channel (DrcMind)[https://drcmind.com/], empowering them with web development skills.
 - **Mentor:** Guided and mentored **210+ students** in **Bukavu**, helping them grow in their tech careers.
 - **Event Organizer:** Organized **physical tech events** as part of **GDG Kivu**, bringing together **200+ developers** to learn, connect, and share knowledge.
 
@@ -32,7 +32,7 @@ Je suis un **Google Developer Expert (GDE)** en technologies web, spécialisé d
 
 ## 🌟 À propos de moi
 - **Expérience en développement web :** Plus de 5 ans d'expertise, avec un fort intérêt pour les frameworks JavaScript modernes, notamment **Next.js** et **Angular**.
-- **Éducateur :** J'ai formé plus de **70 000 étudiants** via ma chaîne YouTube, en leur transmettant des compétences en développement web.
+- **Éducateur :** J'ai formé plus de **70 000 étudiants** via la chaîne YouTube de DrcMind (DrcMind)[https://drcmind.com/], en leur transmettant des compétences en développement web.
 - **Mentor :** J'ai encadré et soutenu plus de **210 étudiants** à **Bukavu**, en les aidant à progresser dans leurs carrières technologiques.
 - **Organisateur d'événements :** J'ai organisé des **événements techniques physiques** avec **GDG Kivu**, réunissant plus de **200 développeurs** pour apprendre, échanger et partager des connaissances.
 
