@@ -1,12 +1,12 @@
 # Hi there, I'm Aksanti Bahiga Tacite 
 
-I'm a **Google Developer Expert (GDE)** in Web Technologies, specializing in **Progressive Web Apps (PWAs)** and **Project Fugu**. Over the last **5 years**, I have been passionately building web applications and sharing my knowledge with others.
+I'm a Google Developer Expert (GDE) in Web Technologies. Over the last 5 years, I have been passionately building web applications and sharing my knowledge with others.
 
 ## About Me
 - **Web Development Experience:** 5+ years of experience with a strong focus on modern JavaScript frameworks.
 - **Educator:** Taught **70,000+ students** through DrcMind's YouTube channel (DrcMind)[https://drcmind.com/], empowering them with web development skills.
-- **Mentor:** Guided and mentored **210+ students** in **Bukavu**, helping them grow in their tech careers.
-- **Event Organizer:** Organized **physical tech events** as part of **GDG Kivu**, bringing together **200+ developers** to learn, connect, and share knowledge.
+- **Mentor:** Guided and mentored 210+ students in Bukavu, helping them grow in their tech careers.
+- **Event Organizer:** Organized physical tech events as part of GDG Kivu, bringing together 200+ developers to learn, connect, and share knowledge.
 
 ## 💡 Tech Interests
 - **Google Technologies**: I'm a huge fan of the tools and platforms provided by Google.
