@@ -13,7 +13,7 @@ I enjoy building products, writing clean code, and solving real problems.
 
 ## Community
 
-- Taught 70,000+ students through DrcMind content  
+- Taught 70,000+ students through [Malakisi channel](https://www.youtube.com/drcmind)   
 - Mentored 200+ students in Bukavu  
 - Organized developer events with [GDG Kivu](https://gdg.community.dev/dashboard/gdg-kivu/home)  
 
