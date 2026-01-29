@@ -15,7 +15,7 @@ I enjoy building products, writing clean code, and solving real problems.
 
 - Taught 70,000+ students through DrcMind content  
 - Mentored 200+ students in Bukavu  
-- Organized developer events with (https://gdg.community.dev/dashboard/gdg-kivu/home)[GDG Kivu]  
+- Organized developer events with [GDG Kivu](https://gdg.community.dev/dashboard/gdg-kivu/home)  
 
 I care about community growth and knowledge sharing.
 
