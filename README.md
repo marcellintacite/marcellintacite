@@ -11,14 +11,6 @@ Software engineer focused on building modern web applications and practical solu
 
 I enjoy building products, writing clean code, and solving real problems.
 
-## Community
-
-- Taught 70,000+ students through [Malakisi channel](https://www.youtube.com/drcmind)   
-- Mentored 200+ students in Bukavu  
-- Organized developer events with [GDG Kivu](https://gdg.community.dev/dashboard/gdg-kivu/home)  
-
-I care about community growth and knowledge sharing.
-
 ## Tech Interests
 
 - Progressive Web Apps  
@@ -28,5 +20,4 @@ I care about community growth and knowledge sharing.
 
 ## Contact
 
-- Email: aksantibahiga3@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/aksantibahiga
+- X: https://x.com/DividendsGarden 
