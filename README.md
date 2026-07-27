@@ -1,4 +1,4 @@
-# Hi, I'm Tom.eth
+# Hi, I'm Aksanti Bahiga Tacite
 
 Software engineer focused on building modern web applications and practical solutions.
 
@@ -20,4 +20,4 @@ I enjoy building products, writing clean code, and solving real problems.
 
 ## Contact
 
-- X: https://x.com/DividendsGarden 
+- X: https://x.com/BahigaTacite
